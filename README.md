@@ -1,12 +1,18 @@
 # снежный барс
 Снежный барс, или ирбис - крупное хищное млекопитающее семейства кошачьих, обитающее в горах Центральной Азии. Живет на высоте 2000-5500 метров, предпочитает скалистые ущелья и альпийские луга
 Длинна тела вместе с хвостом достигает 2 метров, а вес - до 55 кг. Густой дымчато-серый мех с темными пятнами делает его почти незаметным на фоне скал и снега
-<img width="1200" height="801" alt="foto3" src="https://github.com/user-attachments/assets/175760f7-5605-4105-910b-45feb8023440" />
+
+
+
+               <img width="1200" height="801" alt="foto3" src="https://github.com/user-attachments/assets/175760f7-5605-4105-910b-45feb8023440" />
 Хвост ирбиса длинной почти с само тело -  помогает держать равновессие на скалах.
 Прыгает в длинну до 9 метров.
-<img width="800" height="450" alt="foto2" src="https://github.com/user-attachments/assets/6ab5756c-679c-451b-ad8f-07c303b2e37b" />
+
+
+          <img width="800" height="450" alt="foto2" src="https://github.com/user-attachments/assets/6ab5756c-679c-451b-ad8f-07c303b2e37b" />
 Вид занесен в красную книгу и находится под охраной.
 Охотится в одиночку, чащевсего на горных козлов и баранов.
 В дикой природе осталось около 4000-7000 особей.
-<img width="728" height="728" alt="foto1" src="https://github.com/user-attachments/assets/f7467e4d-8eac-4f3e-958b-e62e9fa4a37b" />
+
+         <img width="728" height="728" alt="foto1" src="https://github.com/user-attachments/assets/f7467e4d-8eac-4f3e-958b-e62e9fa4a37b" />
 
